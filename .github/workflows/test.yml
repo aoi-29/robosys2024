@@ -6,4 +6,4 @@ jobs:
     steps:
     - uses: actions/chechout@v3
     - name: All test
-      run: bash -xv .tst.bash
+      run: bash -xv ./test.bash
