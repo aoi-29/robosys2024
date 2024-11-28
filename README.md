@@ -10,4 +10,7 @@
 ## テスト環境
 - Ubuntu 24.04 LTS
 
+## 使用方法
+- $ echo "テキスト" | ./reverse_text
+
 © 2024 Aoi Takahashi
