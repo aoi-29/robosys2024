@@ -1,11 +1,12 @@
 # Reverse Text Tool
+![test](https://github.com/aoi-29/robosys2024/actions/workflows/test.yml/badge.svg)
 
 ## 概要
 標準入力から受け取ったテキストを反転して表示する。
 
 ## 必要なソフトウェア
 - Python
-  -テスト済みバージョン：　3.7~3.10
+  -テスト済みバージョン：　3.12.3
 
 ## テスト環境
 - Ubuntu 24.04 LTS
