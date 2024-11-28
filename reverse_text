@@ -1,0 +1,12 @@
+#!/usr/bin/python3
+# SPDX-FileCopyrightText: 2024 Aoi Takahashi
+# SPDX-License-Identifier: BSD-3-Clause
+
+import sys
+
+def reverse_text(input_text):
+    return input_text[::-1]
+
+if __name__ == "__main__":
+    input_text = sys.stdin.read().strip()
+    print(reverse_text(input_text))
