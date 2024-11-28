@@ -1,4 +1,4 @@
-# Reverse Text Tool
+# reverse_text
 ![test](https://github.com/aoi-29/robosys2024/actions/workflows/test.yml/badge.svg)
 
 ## 概要
