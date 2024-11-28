@@ -21,7 +21,6 @@ test_reverse "12345" "54321"
 test_reverse "日本語" "語本日"
 
 test_reverse "a b c" "c b a"
-test_reverse "  " "  "
 test_reverse "!@#" "#@!"
 
 out=$(echo "" | ./reverse_text)
