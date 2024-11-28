@@ -1,9 +1,14 @@
-name: test
-on: push
+name: Reverse Test Text
+on: 
+  push:
+    branches:
+      - main
 jobs:
   test:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
-    - name: All test
+    - name: Set up Python
+      uses: actions /setup-python@v4
+    - name: Run Tests
       run: bash -xv ./test.bash
