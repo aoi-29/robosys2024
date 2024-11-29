@@ -16,13 +16,13 @@
 
 ### リポジトリをクローンする
 ```bash
-$ git clone https://github.com/aoi-29/robosys2024.git
+$ git clone https://github.com/aoi-29/robosys2024
 ```
 ## 使用方法
 ```bash
 $ echo "反転させたい文字列" | ./reverse_text
 ```
-### 出力例
+### 入出力例
 ```bash
 $ echo "こんにちは" | ./reverse_text
 ```
