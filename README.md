@@ -16,7 +16,7 @@
 
 ### リポジトリをクローンする
 ```bash
-- $ git clone https://github.com/aoi-29/robosys2024.git
+$ git clone https://github.com/aoi-29/robosys2024.git
 ```
 ## 使用方法
 
