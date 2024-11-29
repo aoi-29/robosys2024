@@ -28,4 +28,5 @@ out=$(echo "" | ./reverse_text)
 [ "${out}" = "" ] || ng "$LINENO"
 
 [ "$res" = 0 ] && echo "All tests passed" || echo "Some tests failed"
-exit $res
+
+exit 1
