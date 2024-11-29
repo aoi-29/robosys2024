@@ -29,4 +29,4 @@ out=$(echo "" | ./reverse_text)
 
 [ "$res" = 0 ] && echo "All tests passed" || echo "Some tests failed"
 
-exit 1
+exit $res
