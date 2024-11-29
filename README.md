@@ -19,13 +19,16 @@
 $ git clone https://github.com/aoi-29/robosys2024.git
 ```
 ## 使用方法
-
-- `$ echo "反転させたい文字列" | ./reverse_text`
-
+```bash
+$ echo "反転させたい文字列" | ./reverse_text
+```
 ### 出力例
-- `$ echo "こんにちは" | ./reverse_text`
-- `はちにんこ`
-
+```bash
+$ echo "こんにちは" | ./reverse_text
+```
+```bash
+はちにんこ
+```
 このソフトウェアパッケージは、３条項BSDライセンスの下、再頒布および使用が許可されます。
 
 © 2024 Aoi Takahashi
