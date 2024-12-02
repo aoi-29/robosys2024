@@ -2,7 +2,7 @@
 ![test](https://github.com/aoi-29/robosys2024/actions/workflows/test.yml/badge.svg)
 
 ## 概要
-標準入力から受け取った文字列を反転して表示するプログラム　`reverse_text` を提供しています。
+標準入力から受け取った文字列を反転して表示するプログラム　```bash reverse_text``` を提供しています。
 
 ## 必要なソフトウェア
 - Python
